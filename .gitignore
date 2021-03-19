@@ -1,5 +1,4 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+/.metadata/
+/.Servers/
+playddit/res/config/dbinfo.properties
+playddit/.classpath
